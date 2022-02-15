@@ -1,16 +1,23 @@
-# clone_nubank_dark_figma
+# App: Clone nubank dark figma
 
-A new Flutter project.
+ Flutter/Dart (Projeto feito com o auxilio do vídeo [Nubank App Flutter a partir de um desing do Figma
+](https://www.youtube.com/watch?v=gZxMtAdIK08))
+  <img align="center" alt="Jucesargois-kotlin" width="15" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Jucesargois-Ts" width="15" src="https://img.icons8.com/color/48/000000/dart.png">
+  
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Sobre
+Este projeto tem como objetivo clonar um design do figma, feito com base no vídeo do [Felipe Casseb](https://github.com/felipecasseb). Neste video ele apresenta de forma prática como realizar a construção de duas telas baseando-se em um projeto de design no figma.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Imagens do app.
+
+<img src="https://user-images.githubusercontent.com/69982713/154159908-3b70b198-3fb3-4163-b4f0-f15be33fb046.png" width="250" />
+<img src="https://user-images.githubusercontent.com/69982713/154159944-090b5326-35ff-48ca-8ebb-a210d73cab45.png" width="250" />
+
+
+
