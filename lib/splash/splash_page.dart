@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class SplashPage extends StatefulWidget {
-  SplashPage({Key? key}) : super(key: key);
+  const SplashPage({Key? key}) : super(key: key);
 
   @override
   State<SplashPage> createState() => _SplashPageState();
@@ -9,7 +9,7 @@ class SplashPage extends StatefulWidget {
 
 class _SplashPageState extends State<SplashPage> {
   void initializeSplash()async{
-    await Future.delayed(Duration(seconds: 4));
+    await Future.delayed( const Duration(seconds: 4));
     Navigator.pushReplacementNamed(context, "/home");
   }
 
